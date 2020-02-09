@@ -1,5 +1,5 @@
 # Homework1
-Horiseon wepage updated for the following:
+Horiseon webpage updated for the following:
 Changed div's to semantic elements like header, nav, section, aside and footer.
 Added alt attributes to images in the event a image can not be displayed
 Added blank lines to seperate code blocks for readability 
