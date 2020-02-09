@@ -10,4 +10,5 @@ Created webpage title
 
 URL of the GitHub repository https://github.com/StrongMarc/Homework1.git
 
-file:///C:/Users/Marc/Desktop/Code/Homework/Homework1/02-Homework/Develop/index.html
+https://strongmarc.github.io/Homework1/
+
